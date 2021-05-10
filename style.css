@@ -1,0 +1,43 @@
+#wrapper{
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+header{
+	background: #DCDCDC;
+	padding-left: 5px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	height: 30px;
+	text-align: center-left;
+}
+
+nav ul{
+	list-style-type: none;
+	list-style-position: align;
+}
+
+nav li{
+	display: inline;
+	margin-right: 10px;
+	text-align: left;
+}
+
+section{
+	width: 650px;
+	height: 750px;
+	float: left;
+	background: white;
+}
+
+aside{
+	width: 310px;
+	height: 750px;
+	float: right;	
+}
+
+footer{
+	height: 150px;
+	clear: both;
+}
